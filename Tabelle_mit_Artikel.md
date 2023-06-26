@@ -35,14 +35,6 @@ Tabelle mit Subjekte und Artikel
 | f   | diese         | diese         | diese<u>r</u> | diese<u>r</u> |
 | PL  | diese         | diese         | diese<u>n</u> | diese<u>r</u> |
 
-**Das Demonstrativpronomen**
-
-|     | N             | A             | D             | G             |
-|:---:|:-------------:|:-------------:|:-------------:|:-------------:|
-| m   | diese<u>r</u> | diese<u>n</u> | diese<u>m</u> | diese<u>s</u> |
-| n   | diese<u>s</u> | diese<u>s</u> | diese<u>m</u> | diese<u>s</u> |
-| f   | diese         | diese         | diese<u>r</u> | diese<u>r</u> |
-| PL  | diese         | diese         | diese<u>n</u> | diese<u>r</u> |
 
 **Das Relativpronomen**
 
