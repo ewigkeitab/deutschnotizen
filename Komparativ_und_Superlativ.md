@@ -10,6 +10,9 @@
 
 - 單音節形容詞母音,則a,o,u >> ä,ö,ü
 
+- Besonderes:
+  hoch -> höher  
+
 ## Der Superlativ
 
 - Mit bestimmten Artikel :  Artikel + [ Adjektiv + ste ]
@@ -17,3 +20,7 @@
 - Ohne bestimmten Artikel : am + [ Adjektiv + sten ]
 
 - Auf -d, -t, -sch, -s, -ß, -z, -x enden : am + [ Adjektiv + esten ]
+
+- Besonderes:
+  hoch -> höher -> am höchsten
+  nah -> näher -> am nächsten
