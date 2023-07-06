@@ -10,8 +10,13 @@
 
 - 單音節形容詞母音,則a,o,u >> ä,ö,ü
 
-- Besonderes:
+- Besonderes: 去c,母音變形
   hoch -> höher  
+
+- als 或 wie 後可接名詞，代名詞，副詞，子句
+
+- so ... wie : gleich
+  Der Zug fährt genau so schnell wie Flug fliegt.
 
 ## Der Superlativ
 
@@ -21,6 +26,6 @@
 
 - Auf -d, -t, -sch, -s, -ß, -z, -x enden : am + [ Adjektiv + esten ]
 
-- Besonderes:
+- Besonderes: 去c,母音變形
   hoch -> höher -> am höchsten
   nah -> näher -> am nächsten
