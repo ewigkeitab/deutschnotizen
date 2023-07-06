@@ -1,5 +1,9 @@
 # Komparativ und Superlativ
 
+## Adjektiv
+
+- [形容詞 Adjektiv](https://github.com/ewigkeitab/deutschnotizen/blob/main/Adjektiv.md)
+
 ## Der Komparativ
 
 - Adjektiv + er
@@ -16,7 +20,7 @@
 - als 或 wie 後可接名詞，代名詞，副詞，子句
 
 - so ... wie : gleich
-  Der Zug fährt genau so schnell wie Flug fliegt.
+  zB.: *Der Zug fährt genau so schnell wie Flug fliegt.*
 
 ## Der Superlativ
 
@@ -27,5 +31,4 @@
 - Auf -d, -t, -sch, -s, -ß, -z, -x enden : am + [ Adjektiv + esten ]
 
 - Besonderes: 去c,母音變形
-  hoch -> höher -> am höchsten
-  nah -> näher -> am nächsten
+  *hoch -> höher -> am höchsten* / *nah -> näher -> am nächsten*

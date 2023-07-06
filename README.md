@@ -2,9 +2,11 @@
 
 ## [四格及冠詞速查表](https://github.com/ewigkeitab/deutschnotizen/blob/main/Tabelle_mit_Artikel.md)
 
-## [未來式](https://github.com/ewigkeitab/deutschnotizen/blob/main/Futur.md)
+## [未來式 Futur](https://github.com/ewigkeitab/deutschnotizen/blob/main/Futur.md)
 
-## [比較級與最高級](https://github.com/ewigkeitab/deutschnotizen/blob/main/Komparativ_und_Superlativ.md)
+## [形容詞 Adjektiv](https://github.com/ewigkeitab/deutschnotizen/blob/main/Adjektiv.md)
+
+## [比較級與最高級 Komparativ und Superlativ](https://github.com/ewigkeitab/deutschnotizen/blob/main/Komparativ_und_Superlativ.md)
 
 ## 參考:
 
