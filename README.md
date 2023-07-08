@@ -1,12 +1,14 @@
 # 德語筆記
 
-## [四格及冠詞速查表](https://github.com/ewigkeitab/deutschnotizen/blob/main/Tabelle_mit_Artikel.md)
+這裡的主要為文法規則的整理及方便查詢,有中文與德文穿插說明
 
-## [未來式 Futur](https://github.com/ewigkeitab/deutschnotizen/blob/main/Futur.md)
+### [四格及冠詞速查表](https://github.com/ewigkeitab/deutschnotizen/blob/main/Tabelle_mit_Artikel.md)
 
-## [形容詞 Adjektiv](https://github.com/ewigkeitab/deutschnotizen/blob/main/Adjektiv.md)
+### [未來式 Futur](https://github.com/ewigkeitab/deutschnotizen/blob/main/Futur.md)
 
-## [比較級與最高級 Komparativ und Superlativ](https://github.com/ewigkeitab/deutschnotizen/blob/main/Komparativ_und_Superlativ.md)
+### [形容詞 Adjektiv](https://github.com/ewigkeitab/deutschnotizen/blob/main/Adjektiv.md)
+
+### [比較級與最高級 Komparativ und Superlativ](https://github.com/ewigkeitab/deutschnotizen/blob/main/Komparativ_und_Superlativ.md)
 
 ## 參考:
 

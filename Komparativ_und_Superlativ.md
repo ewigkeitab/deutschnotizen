@@ -19,7 +19,7 @@
 
 - als 或 wie 後可接名詞，代名詞，副詞，子句
 
-- so ... wie : gleich
+- so ... wie : gleich 原級比較
   zB.: *Der Zug fährt genau so schnell wie Flug fliegt.*
 
 ## Der Superlativ
