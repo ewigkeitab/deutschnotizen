@@ -1,6 +1,6 @@
 # Adjektiv 形容詞
 
-## Deklination 變格字尾變化
+## Deklination 變格字尾變化表
 
 - 除了**冠詞格位要變化**以外，形容詞字尾也需變化
 - Nach bestimmentem Artikel 形容詞位於**定冠詞之後**
@@ -23,7 +23,7 @@
   | M   | -er   | -en  | -em   | -en  |
   | N   | -e    | -e   | -em   | -en  |
   | F   | -es   | -es  | -er   | -er  |
-  | Pl  | -e    | -ee  | -en   | -er  |
+  | Pl  | -e    | -e   | -en   | -er  |
 
 ## Partizip I (Präsens) als Adjectiv
 
